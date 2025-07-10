@@ -2,8 +2,6 @@
 
 This is a desktop GUI application built with JavaFX that allows users to view a collection of movie and TV show posters. Posters are loaded from URLs, and the application includes robust error handling for invalid or unavailable links. This project was created for an introductory computer science course and demonstrates event-driven programming and the use of a GUI framework.
 
-![Poster Viewer Screenshot](https://i.imgur.com/L6gBDi3.png)
-*(Suggestion: You can replace this with a screenshot of your own application running!)*
 
 ## Features
 
